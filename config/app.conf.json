@@ -1,0 +1,8 @@
+{
+    "workingdir":"/Users/ariefdarmawan/Go/src",
+    "libraries":["github.com/eaciit","git.eaciitapp.com/sebar"],
+    "paths_":["git.eaciitapp.com/sebar"],
+    "projects":["eaciit/periscope"],
+    "multiplier":4.5,
+    "usagekeyword":["eaciit","sebar"]
+}
